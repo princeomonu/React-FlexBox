@@ -1,0 +1,17 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "a simple react wrapper for css flexbox",
+  "main": "flex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flex",
+    "flexbox",
+    "responsive",
+    "design"
+  ],
+  "author": "prince omonu",
+  "license": "ISC"
+}

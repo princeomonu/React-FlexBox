@@ -1,5 +1,5 @@
 {
-  "name": "flex",
+  "name": "react-flexbox",
   "version": "1.0.0",
   "description": "a simple react wrapper for css flexbox",
   "main": "flex.js",
